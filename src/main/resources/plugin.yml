@@ -1,0 +1,14 @@
+name: SkyBlock
+version: '${project.version}'
+main: de.iplexy.skyblock.SkyBlock
+api-version: 1.19
+authors: [ iPlexy ]
+description: SkyBlock - System
+website: https://iplexy.de
+commands:
+  Island:
+    aliases:
+      - is
+      - sb
+      - skyblock
+      - insel
